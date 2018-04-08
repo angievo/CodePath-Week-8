@@ -1,1 +1,42 @@
 # CodePath-Week-8
+# Project 8 - Pentesting Live Targets
+# Angie Vo (adv3ks)
+
+Time spent: **X** hours spent in total
+
+> Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
+
+The six possible exploits are:
+* Username Enumeration
+* Insecure Direct Object Reference (IDOR)
+* SQL Injection (SQLi)
+* Cross-Site Scripting (XSS)
+* Cross-Site Request Forgery (CSRF)
+* Session Hijacking/Fixation
+
+Each version of the site has been given two of the six vulnerabilities. (In other words, all six of the exploits should be assignable to one of the sites.)
+
+## Blue
+
+Vulnerability #1: ____SQLi______________
+
+Vulnerability #2: ____Session Hijacking______________
+
+
+## Green
+
+Vulnerability #1: _______XSS___________
+
+Vulnerability #2: _____Useranme Enumeration_____________
+
+
+## Red
+
+Vulnerability #1: _____IDOR_____________
+
+Vulnerability #2: ____CSRF Token______________
+
+
+## Notes
+
+Describe any challenges encountered while doing the work
